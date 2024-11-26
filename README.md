@@ -1,2 +1,16 @@
 # Grupo6
+Tema: Sistema de Gestión de Tareas 
+Descripción del Proyecto:
 Este sistema permitirá a los usuarios registrar, asignar, priorizar y monitorear tareas, además de recibir notificaciones y recordatorios.
+
+Objetivo: 
+Desarrollar una herramienta que facilite la organización y gestión de tareas tanto a nivel personal como de equipos, mejorando la eficiencia y el seguimiento de actividades.
+
+Tecnología a utilizar:
+Node.js
+
+Integrantes del equipo:
+-Quispe Coaquira, Homero Percy (Desarrollador)
+-Andre Stefano León de la Cruz (Desarrollador)
+-Espinoza Pilco, Frans (Desarrollador)
+
