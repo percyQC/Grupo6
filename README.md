@@ -7,10 +7,10 @@ Objetivo:
 Desarrollar una herramienta que facilite la organización y gestión de tareas tanto a nivel personal como de equipos, mejorando la eficiencia y el seguimiento de actividades.
 
 Tecnología a utilizar:
-Node.js
+Node.js, MySQL
 
 Integrantes del equipo:
--Quispe Coaquira, Homero Percy (Desarrollador)
--Andre Stefano León de la Cruz (Desarrollador)
--Espinoza Pilco, Frans (Desarrollador)
+- Espinoza Pilco, Frans (Desarrollador)
+- León de la Cruz, Andre Stefano  (Desarrollador)
+- Quispe Coaquira, Homero Percy (Desarrollador)
 
