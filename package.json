@@ -4,7 +4,9 @@
   "description": "Tema: Sistema de Gestión de Tareas \r Descripción del Proyecto:\r Este sistema permitirá a los usuarios registrar, asignar, priorizar y monitorear tareas, además de recibir notificaciones y recordatorios.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "ejecutar": "node index.js"
   },
   "keywords": [],
   "author": "",
