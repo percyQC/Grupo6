@@ -1,7 +1,8 @@
 import express,{Application} from 'express';
 import morgan from 'morgan';
 import equipoRouter from './routes/equipo.route';
-import { AppDataSource} from './config/db.config';
+
+import { AppDataSource} from './';
 
 
 const app: Application = express();
